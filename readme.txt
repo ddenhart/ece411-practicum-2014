@@ -36,7 +36,6 @@
 ---2014.10.11 dd---
    - Added color sensing proposals
 
-   
 ---2014.10.11 jerscott---
    - Added power and vague proposals
 
@@ -44,12 +43,12 @@
    - Added system overview block diagram
    - New stage folder created
 
+---2014.10.11 ccarmen—--
+   - Added LED options powerpoint
+
 ---2014.10.12 nslj---
    - Reorganized file folders to reflect latest updates (for observers)
    - Added the alternate proposals write up for HW2
-
----2014.10.11 ccarmen—--
-   - Added LED options powerpoint
 
 ---2014.10.12 jerscott---
    - Added updated Practicum Proposal
@@ -60,3 +59,18 @@
    -Filled out class forms with team members and project name
    -Added Microcontroller and Color Sensor datasheets and purchasing links to wiki
    -Added In-System Programmer links to wiki
+
+---2014.10.14 ccarmen---
+   - Added 10/11/2014 meeting minutes
+   - Added RGB LED strip datasheet & product link to the wiki
+
+---2014.10.16 ccarmen---
+   - Added AVR programmer option links on Datasheet & Product Links page
+
+---2014.10.18 ccarmen---
+   - Added 10/18/2014 meeting minutes on the Wiki
+
+---2014.10.18 dd---
+   -Updated Wiki to have the T10 name and added summary
+   -Added Project Proposal and Decision Matrix Pages
+   -Made organized Wiki sidebar
