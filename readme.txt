@@ -74,3 +74,10 @@
    -Updated Wiki to have the T10 name and added summary
    -Added Project Proposal and Decision Matrix Pages
    -Made organized Wiki sidebar
+
+---2014.10.19 cc---
+Added LED output drawing to provide info for the project schematic
+
+
+---2014.10.20 dd---
+   - Added Color Sensor block drawing
