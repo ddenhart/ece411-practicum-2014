@@ -81,3 +81,6 @@ Added LED output drawing to provide info for the project schematic
 
 ---2014.10.20 dd---
    - Added Color Sensor block drawing
+   
+---2014.10.23 jerscott---
+   - Added PDS
