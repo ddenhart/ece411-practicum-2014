@@ -91,3 +91,6 @@ Added LED output drawing to provide info for the project schematic
 
 ---2014.10.24 nslj---
   - Added meeting minues and updated WPR
+  
+---2014.10.27 jerscott---
+   - Uploaded Revision 2 PDS
