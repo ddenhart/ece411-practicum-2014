@@ -85,5 +85,9 @@ Added LED output drawing to provide info for the project schematic
 ---2014.10.23 jerscott---
    - Added PDS
 
----2014.10.24 nslj ---
-   - Added schematic rough rough draft
+---2014.10.24 nslj---
+   - Added schematic rough draft
+   - Added brief write up on adding custom libraries to EAGLE
+
+---2014.10.24 nslj---
+  - Added meeting minues and updated WPR
