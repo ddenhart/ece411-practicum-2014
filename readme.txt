@@ -81,3 +81,16 @@ Added LED output drawing to provide info for the project schematic
 
 ---2014.10.20 dd---
    - Added Color Sensor block drawing
+   
+---2014.10.23 jerscott---
+   - Added PDS
+
+---2014.10.24 nslj---
+   - Added schematic rough draft
+   - Added brief write up on adding custom libraries to EAGLE
+
+---2014.10.24 nslj---
+  - Added meeting minues and updated WPR
+  
+---2014.10.27 jerscott---
+   - Uploaded Revision 2 PDS
