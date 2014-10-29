@@ -85,5 +85,8 @@ Added LED output drawing to provide info for the project schematic
 ---2014.10.23 jerscott---
    - Added PDS
 
----2014.10.24 nslj ---
+---2014.10.24 nslj---
    - Added schematic rough rough draft
+   
+---2014.10.29 nslj---
+   - Added preliminary schematic for turn in
