@@ -76,17 +76,47 @@
    -Made organized Wiki sidebar
 
 ---2014.10.19 cc---
-Added LED output drawing to provide info for the project schematic
-
+   -Added LED output drawing to provide info for the project schematic
 
 ---2014.10.20 dd---
    - Added Color Sensor block drawing
    
+---2014.10.21 cc---
+   - Carmen Ciobanu implemented the new Weekly Progress Report format on the Wiki (individual and team combined)
+
+---2014.10.22 dd---
+   -Added the template pages for the individual weekly reports on the wiki
+   -Filled in the past weekly reports
+
+---2014.10.23 dd---
+  - installed avr studio to start learning
+  - installed winavr to start learning
+
 ---2014.10.23 jerscott---
    - Added PDS
 
+<<<<<<< HEAD
 ---2014.10.24 nslj---
    - Added schematic rough rough draft
    
 ---2014.10.29 nslj---
    - Added preliminary schematic for turn in
+=======
+---2014.10.24 dd---
+   - Color sensors, Micontrollers, test RGB leds, power supply and ISP parts arrived
+
+---2014.10.24 nslj---
+   - Added schematic rough draft
+   - Added brief write up on adding custom libraries to EAGLE
+
+---2014.10.24 nslj---
+  - Added meeting minues and updated WPR
+
+---2014.10.27 jerscott---
+   - Uploaded Revision 2 PDS
+
+---2014.10.27 dd---
+   - Sync'd readme and wpr's
+   - breadboard power adapter component and last of other connectors arrived
+
+>>>>>>> origin/master
