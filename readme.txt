@@ -94,7 +94,7 @@
 
 ---2014.10.23 jerscott---
    - Added PDS
-
+   
 ---2014.10.24 dd---
    - Color sensors, Micontrollers, test RGB leds, power supply and ISP parts arrived
 
@@ -112,3 +112,6 @@
    - Sync'd readme and wpr's
    - breadboard power adapter component and last of other connectors arrived
 
+---2014.10.29 nslj---
+   - Added preliminary schematic for turn in
+   - Updated wiki with schematic info
