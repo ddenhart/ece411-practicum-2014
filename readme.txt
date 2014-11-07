@@ -115,3 +115,13 @@
 ---2014.10.29 nslj---
    - Added preliminary schematic for turn in
    - Updated wiki with schematic info
+ 
+---2014.11.5 nslj---
+   - preliminary board layout uploaded
+   - updated wiki with layout info
+
+---2014.11.6 nslj---
+   - completely rerouted board with correct size traces
+   -redid components based on preliminary bill of materials
+   - new switch, new capacitors!
+   
