@@ -8,20 +8,20 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -30,8 +30,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -39,17 +39,17 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
@@ -12679,28 +12679,25 @@ LED strip with LDP8806</text>
 <text x="-27.94" y="66.04" size="1.778" layer="97">5V 12W DC power supply</text>
 <text x="83.82" y="48.26" size="1.778" layer="97">Header connection for TCS3472 RGB sensor</text>
 <text x="30.48" y="-86.36" size="1.9304" layer="97">Team T10: Carmen Ciobanu, Deborah Denhart, Jeremiah Scott, Nick Lynch-Jonely </text>
-<text x="116.84" y="-106.68" size="1.778" layer="91">v1.01</text>
-<text x="30.48" y="-106.68" size="1.778" layer="91">2</text>
-<text x="-132.08" y="-88.9" size="1.778" layer="97">ISSUES:
-
-Smash and Size component names on Sch and Board
-
-Peer review!!!
-
-preliminary bill of materials complete! 
-
-parts ordered: need to triple check packages in schematic match ordered parts. 
-
-Check all layers on Board layout: Top Bottom, tSilk..tNames, bNames, aka do we want some part names on the 
-board to help with debugging so we don't have to keep schematic open when debugging?
-</text>
+<text x="116.84" y="-106.68" size="1.778" layer="91">v1.04</text>
+<text x="30.48" y="-106.68" size="1.778" layer="91">5</text>
+<text x="-132.08" y="-88.9" size="1.778" layer="97"></text>
 <text x="71.12" y="-68.58" size="1.778" layer="97">This is the ISP programming header</text>
 </plain>
 <instances>
 <instance part="U1" gate="G$1" x="-25.4" y="22.86"/>
-<instance part="Q1" gate="G$1" x="-53.34" y="20.32" rot="R90"/>
-<instance part="C1" gate="G$1" x="-60.96" y="22.86" rot="R270"/>
-<instance part="C2" gate="G$1" x="-60.96" y="10.16" rot="R270"/>
+<instance part="Q1" gate="G$1" x="-53.34" y="20.32" smashed="yes" rot="R90">
+<attribute name="NAME" x="-54.356" y="17.78" size="0.762" layer="95" rot="R90"/>
+<attribute name="VALUE" x="-55.88" y="15.24" size="1.016" layer="96" rot="R90"/>
+</instance>
+<instance part="C1" gate="G$1" x="-60.96" y="22.86" smashed="yes" rot="R270">
+<attribute name="NAME" x="-60.325" y="21.844" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="-65.151" y="21.844" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="C2" gate="G$1" x="-60.96" y="10.16" smashed="yes" rot="R270">
+<attribute name="NAME" x="-60.325" y="9.144" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="-65.151" y="9.144" size="1.778" layer="96" rot="R270"/>
+</instance>
 <instance part="R1" gate="G$1" x="17.78" y="0"/>
 <instance part="R2" gate="G$1" x="33.02" y="0"/>
 <instance part="C3" gate="G$1" x="25.4" y="-12.7"/>
@@ -12719,7 +12716,10 @@ board to help with debugging so we don't have to keep schematic open when debugg
 <instance part="U$17" gate="G$1" x="53.34" y="10.16"/>
 <instance part="U$20" gate="G$1" x="83.82" y="15.24"/>
 <instance part="U$21" gate="G$1" x="83.82" y="40.64"/>
-<instance part="C8" gate="G$1" x="-73.66" y="35.56"/>
+<instance part="C8" gate="G$1" x="-73.66" y="35.56" smashed="yes">
+<attribute name="NAME" x="-72.644" y="36.195" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-72.644" y="31.369" size="1.778" layer="96"/>
+</instance>
 <instance part="U$8" gate="G$1" x="-91.44" y="-43.18"/>
 <instance part="SPEAKERHDR" gate="-1" x="93.98" y="-17.78"/>
 <instance part="SPEAKERHDR" gate="-2" x="93.98" y="-20.32"/>
@@ -12732,32 +12732,92 @@ board to help with debugging so we don't have to keep schematic open when debugg
 <instance part="J3" gate="G$1" x="93.98" y="-55.88"/>
 <instance part="U$5" gate="G$1" x="114.3" y="-63.5"/>
 <instance part="U$7" gate="G$1" x="114.3" y="-50.8"/>
-<instance part="R5" gate="G$1" x="-91.44" y="55.88" rot="R90"/>
+<instance part="R5" gate="G$1" x="-91.44" y="55.88" smashed="yes" rot="R90">
+<attribute name="NAME" x="-92.9386" y="52.07" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="-88.138" y="52.07" size="1.778" layer="96" rot="R90"/>
+</instance>
 <instance part="U$3" gate="G$1" x="22.86" y="43.18"/>
-<instance part="R7" gate="G$1" x="7.62" y="48.26"/>
+<instance part="R7" gate="G$1" x="7.62" y="48.26" smashed="yes">
+<attribute name="NAME" x="3.81" y="49.7586" size="1.778" layer="95"/>
+<attribute name="VALUE" x="6.35" y="44.958" size="1.778" layer="96"/>
+</instance>
 <instance part="HI_WRLD" gate="G$1" x="17.78" y="48.26" rot="R90"/>
 <instance part="U$9" gate="G$1" x="-73.66" y="-43.18"/>
 <instance part="5V1" gate="G$1" x="-73.66" y="63.5"/>
 <instance part="5V2" gate="G$1" x="-91.44" y="63.5"/>
-<instance part="TP1" gate="G$1" x="0" y="27.94"/>
-<instance part="TP2" gate="G$1" x="2.54" y="25.4"/>
-<instance part="TP3" gate="G$1" x="5.08" y="22.86"/>
-<instance part="TP4" gate="G$1" x="2.54" y="17.78" rot="R270"/>
-<instance part="TP5" gate="G$1" x="12.7" y="17.78"/>
-<instance part="TP6" gate="G$1" x="15.24" y="12.7" rot="R270"/>
-<instance part="TP7" gate="G$1" x="17.78" y="10.16" rot="R270"/>
-<instance part="TP8" gate="G$1" x="20.32" y="7.62" rot="R270"/>
-<instance part="TP9" gate="G$1" x="2.54" y="45.72" rot="R270"/>
-<instance part="TP10" gate="G$1" x="2.54" y="43.18" rot="R270"/>
-<instance part="TP11" gate="G$1" x="2.54" y="40.64" rot="R270"/>
-<instance part="TP13" gate="G$1" x="-50.8" y="15.24" rot="R180"/>
-<instance part="TP14" gate="G$1" x="-50.8" y="25.4"/>
-<instance part="TP15" gate="G$1" x="35.56" y="40.64"/>
-<instance part="TP16" gate="G$1" x="45.72" y="33.02" rot="R180"/>
+<instance part="TP1" gate="G$1" x="0" y="27.94" smashed="yes">
+<attribute name="NAME" x="1.27" y="26.67" size="1.016" layer="95" rot="R90"/>
+<attribute name="TP_SIGNAL_NAME" x="1.27" y="26.67" size="1.778" layer="97"/>
+</instance>
+<instance part="TP2" gate="G$1" x="2.54" y="25.4" smashed="yes">
+<attribute name="NAME" x="3.81" y="24.13" size="1.016" layer="95" rot="R90"/>
+<attribute name="TP_SIGNAL_NAME" x="3.81" y="24.13" size="1.778" layer="97"/>
+</instance>
+<instance part="TP3" gate="G$1" x="5.08" y="22.86" smashed="yes">
+<attribute name="NAME" x="6.35" y="21.59" size="1.016" layer="95" rot="R90"/>
+<attribute name="TP_SIGNAL_NAME" x="6.35" y="21.59" size="1.778" layer="97"/>
+</instance>
+<instance part="TP4" gate="G$1" x="2.54" y="17.78" smashed="yes" rot="R270">
+<attribute name="NAME" x="1.27" y="16.51" size="1.016" layer="95"/>
+<attribute name="TP_SIGNAL_NAME" x="1.27" y="16.51" size="1.778" layer="97" rot="R270"/>
+</instance>
+<instance part="TP5" gate="G$1" x="12.7" y="17.78" smashed="yes">
+<attribute name="NAME" x="16.51" y="16.51" size="1.016" layer="95" rot="R180"/>
+<attribute name="TP_SIGNAL_NAME" x="13.97" y="16.51" size="1.778" layer="97"/>
+</instance>
+<instance part="TP6" gate="G$1" x="15.24" y="12.7" smashed="yes" rot="R270">
+<attribute name="NAME" x="19.05" y="13.97" size="1.016" layer="95" rot="R180"/>
+<attribute name="TP_SIGNAL_NAME" x="13.97" y="11.43" size="1.778" layer="97" rot="R270"/>
+</instance>
+<instance part="TP7" gate="G$1" x="17.78" y="10.16" smashed="yes" rot="R270">
+<attribute name="NAME" x="21.59" y="11.43" size="1.016" layer="95" rot="R180"/>
+<attribute name="TP_SIGNAL_NAME" x="16.51" y="8.89" size="1.778" layer="97" rot="R270"/>
+</instance>
+<instance part="TP8" gate="G$1" x="20.32" y="7.62" smashed="yes" rot="R270">
+<attribute name="NAME" x="24.13" y="8.89" size="1.016" layer="95" rot="R180"/>
+<attribute name="TP_SIGNAL_NAME" x="19.05" y="6.35" size="1.778" layer="97" rot="R270"/>
+</instance>
+<instance part="TP9" gate="G$1" x="2.54" y="45.72" smashed="yes" rot="R270">
+<attribute name="NAME" x="3.81" y="46.99" size="1.016" layer="95" rot="R180"/>
+<attribute name="TP_SIGNAL_NAME" x="1.27" y="44.45" size="1.778" layer="97" rot="R270"/>
+</instance>
+<instance part="TP10" gate="G$1" x="2.54" y="43.18" smashed="yes" rot="R270">
+<attribute name="NAME" x="3.81" y="44.45" size="1.016" layer="95" rot="R180"/>
+<attribute name="TP_SIGNAL_NAME" x="1.27" y="41.91" size="1.778" layer="97" rot="R270"/>
+</instance>
+<instance part="TP11" gate="G$1" x="2.54" y="40.64" smashed="yes" rot="R270">
+<attribute name="NAME" x="3.81" y="41.91" size="1.016" layer="95" rot="R180"/>
+<attribute name="TP_SIGNAL_NAME" x="1.27" y="39.37" size="1.778" layer="97" rot="R270"/>
+</instance>
+<instance part="TP13" gate="G$1" x="-50.8" y="15.24" smashed="yes" rot="R180">
+<attribute name="NAME" x="-49.53" y="16.51" size="1.016" layer="95" rot="R270"/>
+<attribute name="TP_SIGNAL_NAME" x="-52.07" y="16.51" size="1.778" layer="97" rot="R180"/>
+</instance>
+<instance part="TP14" gate="G$1" x="-50.8" y="25.4" smashed="yes">
+<attribute name="NAME" x="-49.53" y="24.13" size="1.016" layer="95" rot="R90"/>
+<attribute name="TP_SIGNAL_NAME" x="-49.53" y="24.13" size="1.778" layer="97"/>
+</instance>
+<instance part="TP15" gate="G$1" x="35.56" y="40.64" smashed="yes">
+<attribute name="NAME" x="34.29" y="39.37" size="1.016" layer="95" rot="R90"/>
+<attribute name="TP_SIGNAL_NAME" x="36.83" y="39.37" size="1.778" layer="97"/>
+</instance>
+<instance part="TP16" gate="G$1" x="45.72" y="33.02" smashed="yes" rot="R180">
+<attribute name="NAME" x="46.99" y="34.29" size="1.016" layer="95" rot="R270"/>
+<attribute name="TP_SIGNAL_NAME" x="44.45" y="34.29" size="1.778" layer="97" rot="R180"/>
+</instance>
 <instance part="TP17" gate="G$1" x="48.26" y="2.54"/>
-<instance part="TP18" gate="G$1" x="17.78" y="20.32" rot="R180"/>
-<instance part="TP19" gate="G$1" x="17.78" y="27.94"/>
-<instance part="IC1" gate="G$1" x="63.5" y="-12.7"/>
+<instance part="TP18" gate="G$1" x="17.78" y="20.32" smashed="yes" rot="R180">
+<attribute name="NAME" x="19.05" y="21.59" size="1.016" layer="95" rot="R270"/>
+<attribute name="TP_SIGNAL_NAME" x="16.51" y="21.59" size="1.778" layer="97" rot="R180"/>
+</instance>
+<instance part="TP19" gate="G$1" x="17.78" y="27.94" smashed="yes">
+<attribute name="NAME" x="16.51" y="26.67" size="1.016" layer="95" rot="R90"/>
+<attribute name="TP_SIGNAL_NAME" x="19.05" y="26.67" size="1.778" layer="97"/>
+</instance>
+<instance part="IC1" gate="G$1" x="63.5" y="-12.7" smashed="yes">
+<attribute name="NAME" x="63.5" y="-10.16" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="60.96" y="-13.97" size="0.762" layer="96"/>
+</instance>
 <instance part="U$10" gate="G$1" x="-66.04" y="-43.18"/>
 <instance part="U$11" gate="G$1" x="-53.34" y="-43.18"/>
 <instance part="U$12" gate="G$1" x="25.4" y="-38.1"/>
@@ -12767,28 +12827,76 @@ board to help with debugging so we don't have to keep schematic open when debugg
 <instance part="U$16" gate="G$1" x="66.04" y="-38.1"/>
 <instance part="U$18" gate="G$1" x="78.74" y="-38.1"/>
 <instance part="U$19" gate="G$1" x="91.44" y="-38.1"/>
-<instance part="TP20" gate="G$1" x="76.2" y="-10.16"/>
-<instance part="TP21" gate="G$1" x="58.42" y="-22.86" rot="R90"/>
-<instance part="TP23" gate="G$1" x="73.66" y="15.24"/>
-<instance part="TP24" gate="G$1" x="53.34" y="-7.62"/>
+<instance part="TP20" gate="G$1" x="76.2" y="-10.16" smashed="yes">
+<attribute name="NAME" x="74.93" y="-11.43" size="1.016" layer="95" rot="R90"/>
+<attribute name="TP_SIGNAL_NAME" x="77.47" y="-11.43" size="1.778" layer="97"/>
+</instance>
+<instance part="TP21" gate="G$1" x="58.42" y="-22.86" smashed="yes" rot="R90">
+<attribute name="NAME" x="57.15" y="-24.13" size="1.016" layer="95" rot="R90"/>
+<attribute name="TP_SIGNAL_NAME" x="59.69" y="-21.59" size="1.778" layer="97" rot="R90"/>
+</instance>
+<instance part="TP23" gate="G$1" x="73.66" y="15.24" smashed="yes">
+<attribute name="NAME" x="72.39" y="16.51" size="1.016" layer="95"/>
+<attribute name="TP_SIGNAL_NAME" x="74.93" y="13.97" size="1.778" layer="97"/>
+</instance>
+<instance part="TP24" gate="G$1" x="53.34" y="-7.62" smashed="yes">
+<attribute name="NAME" x="54.61" y="-8.89" size="1.016" layer="95" rot="R90"/>
+<attribute name="TP_SIGNAL_NAME" x="54.61" y="-8.89" size="1.778" layer="97"/>
+</instance>
 <instance part="TP27" gate="G$1" x="76.2" y="68.58"/>
-<instance part="TP28" gate="G$1" x="0" y="83.82"/>
-<instance part="TP29" gate="G$1" x="-10.16" y="81.28"/>
-<instance part="TP30" gate="G$1" x="-48.26" y="50.8"/>
-<instance part="TP12" gate="G$1" x="15.24" y="-55.88" rot="R180"/>
-<instance part="TP22" gate="G$1" x="17.78" y="-58.42" rot="R180"/>
-<instance part="TP25" gate="G$1" x="10.16" y="-48.26" rot="R180"/>
+<instance part="TP28" gate="G$1" x="0" y="83.82" smashed="yes">
+<attribute name="NAME" x="-1.27" y="82.55" size="1.016" layer="95" rot="R90"/>
+<attribute name="TP_SIGNAL_NAME" x="1.27" y="82.55" size="1.778" layer="97"/>
+</instance>
+<instance part="TP29" gate="G$1" x="-10.16" y="81.28" smashed="yes">
+<attribute name="NAME" x="-11.43" y="80.01" size="1.016" layer="95" rot="R90"/>
+<attribute name="TP_SIGNAL_NAME" x="-8.89" y="80.01" size="1.778" layer="97"/>
+</instance>
+<instance part="TP30" gate="G$1" x="-48.26" y="50.8" smashed="yes">
+<attribute name="NAME" x="-49.53" y="49.53" size="1.016" layer="95" rot="R90"/>
+<attribute name="TP_SIGNAL_NAME" x="-46.99" y="49.53" size="1.778" layer="97"/>
+</instance>
+<instance part="TP12" gate="G$1" x="15.24" y="-55.88" smashed="yes" rot="R180">
+<attribute name="NAME" x="13.97" y="-57.15" size="1.016" layer="95" rot="R90"/>
+<attribute name="TP_SIGNAL_NAME" x="13.97" y="-54.61" size="1.778" layer="97" rot="R180"/>
+</instance>
+<instance part="TP22" gate="G$1" x="17.78" y="-58.42" smashed="yes" rot="R180">
+<attribute name="NAME" x="19.05" y="-57.15" size="1.016" layer="95" rot="R270"/>
+<attribute name="TP_SIGNAL_NAME" x="16.51" y="-57.15" size="1.778" layer="97" rot="R180"/>
+</instance>
+<instance part="TP25" gate="G$1" x="10.16" y="-48.26" smashed="yes" rot="R180">
+<attribute name="NAME" x="8.89" y="-49.53" size="1.016" layer="95" rot="R90"/>
+<attribute name="TP_SIGNAL_NAME" x="8.89" y="-46.99" size="1.778" layer="97" rot="R180"/>
+</instance>
 <instance part="TP26" gate="G$1" x="116.84" y="-53.34" rot="R270"/>
 <instance part="C10" gate="G$1" x="60.96" y="-27.94"/>
 <instance part="JP1" gate="A" x="119.38" y="27.94"/>
-<instance part="TP33" gate="G$1" x="81.28" y="27.94" rot="R90"/>
-<instance part="TP34" gate="G$1" x="81.28" y="30.48" rot="R90"/>
-<instance part="TP35" gate="G$1" x="81.28" y="33.02" rot="R90"/>
-<instance part="TP36" gate="G$1" x="81.28" y="35.56" rot="R90"/>
-<instance part="C11" gate="G$1" x="-80.01" y="30.226"/>
+<instance part="TP33" gate="G$1" x="81.28" y="27.94" smashed="yes" rot="R90">
+<attribute name="NAME" x="77.47" y="26.67" size="1.016" layer="95"/>
+<attribute name="TP_SIGNAL_NAME" x="82.55" y="29.21" size="1.778" layer="97" rot="R90"/>
+</instance>
+<instance part="TP34" gate="G$1" x="81.28" y="30.48" smashed="yes" rot="R90">
+<attribute name="NAME" x="77.47" y="29.21" size="1.016" layer="95"/>
+<attribute name="TP_SIGNAL_NAME" x="82.55" y="31.75" size="1.778" layer="97" rot="R90"/>
+</instance>
+<instance part="TP35" gate="G$1" x="81.28" y="33.02" smashed="yes" rot="R90">
+<attribute name="NAME" x="77.47" y="31.75" size="1.016" layer="95"/>
+<attribute name="TP_SIGNAL_NAME" x="82.55" y="34.29" size="1.778" layer="97" rot="R90"/>
+</instance>
+<instance part="TP36" gate="G$1" x="81.28" y="35.56" smashed="yes" rot="R90">
+<attribute name="NAME" x="77.47" y="34.29" size="1.016" layer="95"/>
+<attribute name="TP_SIGNAL_NAME" x="82.55" y="36.83" size="1.778" layer="97" rot="R90"/>
+</instance>
+<instance part="C11" gate="G$1" x="-80.01" y="30.226" smashed="yes">
+<attribute name="NAME" x="-78.994" y="30.861" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-78.994" y="26.035" size="1.778" layer="96"/>
+</instance>
 <instance part="U$22" gate="G$1" x="-80.01" y="-43.18"/>
 <instance part="5V3" gate="G$1" x="-80.01" y="63.5"/>
-<instance part="SW1" gate="G$1" x="-93.98" y="43.18"/>
+<instance part="SW1" gate="G$1" x="-93.98" y="43.18" smashed="yes">
+<attribute name="NAME" x="-96.52" y="39.37" size="1.016" layer="95" rot="R180"/>
+<attribute name="VALUE" x="-94.615" y="36.83" size="1.016" layer="96" rot="R180"/>
+</instance>
 </instances>
 <busses>
 </busses>
@@ -13087,13 +13195,13 @@ board to help with debugging so we don't have to keep schematic open when debugg
 <segment>
 <pinref part="U1" gate="G$1" pin="PB6(XTAL1/TOSC1)"/>
 <pinref part="Q1" gate="G$1" pin="2"/>
-<wire x1="-48.26" y1="22.86" x2="-50.8" y2="22.86" width="0.1524" layer="91"/>
 <pinref part="C1" gate="G$1" pin="1"/>
 <wire x1="-50.8" y1="22.86" x2="-53.34" y2="22.86" width="0.1524" layer="91"/>
 <wire x1="-53.34" y1="22.86" x2="-58.42" y2="22.86" width="0.1524" layer="91"/>
 <pinref part="TP14" gate="G$1" pin="TP"/>
 <junction x="-53.34" y="22.86"/>
 <junction x="-50.8" y="22.86"/>
+<wire x1="-50.8" y1="22.86" x2="-48.26" y2="22.86" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$7" class="0">
@@ -13266,13 +13374,6 @@ board to help with debugging so we don't have to keep schematic open when debugg
 <wire x1="0" y1="22.86" x2="2.54" y2="22.86" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$23" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="PD2(INT0)"/>
-<pinref part="TP3" gate="G$1" pin="TP"/>
-<wire x1="0" y1="20.32" x2="5.08" y2="20.32" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="N$24" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="PD3(INT1)"/>
@@ -13306,12 +13407,6 @@ board to help with debugging so we don't have to keep schematic open when debugg
 <pinref part="TP9" gate="G$1" pin="TP"/>
 </segment>
 </net>
-<net name="N$29" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="PC2(ADC2)"/>
-<pinref part="TP10" gate="G$1" pin="TP"/>
-</segment>
-</net>
 <net name="N$30" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="PC3(ADC3)"/>
@@ -13321,15 +13416,29 @@ board to help with debugging so we don't have to keep schematic open when debugg
 <net name="INT" class="0">
 <segment>
 <pinref part="J1" gate="G$1" pin="6"/>
-<wire x1="91.44" y1="58.42" x2="76.2" y2="58.42" width="0.1524" layer="91"/>
+<wire x1="91.44" y1="58.42" x2="66.04" y2="58.42" width="0.1524" layer="91"/>
 <label x="76.2" y="58.42" size="1.778" layer="95"/>
+<wire x1="66.04" y1="58.42" x2="66.04" y2="30.48" width="0.1524" layer="91"/>
+<wire x1="66.04" y1="30.48" x2="5.08" y2="30.48" width="0.1524" layer="91"/>
+<pinref part="U1" gate="G$1" pin="PD2(INT0)"/>
+<pinref part="TP3" gate="G$1" pin="TP"/>
+<wire x1="0" y1="20.32" x2="5.08" y2="20.32" width="0.1524" layer="91"/>
+<wire x1="5.08" y1="30.48" x2="5.08" y2="20.32" width="0.1524" layer="91"/>
+<junction x="5.08" y="20.32"/>
 </segment>
 </net>
 <net name="LED_FN" class="0">
 <segment>
 <pinref part="J1" gate="G$1" pin="7"/>
-<wire x1="91.44" y1="55.88" x2="76.2" y2="55.88" width="0.1524" layer="91"/>
 <label x="76.2" y="55.88" size="1.778" layer="95"/>
+<wire x1="91.44" y1="55.88" x2="27.94" y2="55.88" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="55.88" x2="27.94" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="40.64" x2="5.08" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="5.08" y1="40.64" x2="5.08" y2="43.18" width="0.1524" layer="91"/>
+<pinref part="U1" gate="G$1" pin="PC2(ADC2)"/>
+<pinref part="TP10" gate="G$1" pin="TP"/>
+<wire x1="5.08" y1="43.18" x2="0" y2="43.18" width="0.1524" layer="91"/>
+<junction x="0" y="43.18"/>
 </segment>
 </net>
 <net name="N$31" class="0">
@@ -13377,8 +13486,6 @@ board to help with debugging so we don't have to keep schematic open when debugg
 <errors>
 <approved hash="104,1,60.96,-5.08,IC1,VS,VIN,,,"/>
 <approved hash="104,1,60.96,-20.32,IC1,GND,N$31,,,"/>
-<approved hash="106,1,91.44,58.42,INT,,,,,"/>
-<approved hash="106,1,91.44,55.88,LED_FN,,,,,"/>
 <approved hash="113,1,117.077,30.6112,JP1,,,,,"/>
 </errors>
 </schematic>
