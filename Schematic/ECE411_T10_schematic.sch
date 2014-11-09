@@ -12681,13 +12681,7 @@ LED strip with LDP8806</text>
 <text x="30.48" y="-86.36" size="1.9304" layer="97">Team T10: Carmen Ciobanu, Deborah Denhart, Jeremiah Scott, Nick Lynch-Jonely </text>
 <text x="116.84" y="-106.68" size="1.778" layer="91">v1.04</text>
 <text x="30.48" y="-106.68" size="1.778" layer="91">5</text>
-<text x="-132.08" y="-88.9" size="1.778" layer="97">ISSUES:
-
-Smash and Size component names on Sch and Board
-
-Check all layers on Board layout: Top Bottom, tSilk..tNames, bNames, aka do we want some part names on the 
-board to help with debugging so we don't have to keep schematic open when debugging?
-</text>
+<text x="-132.08" y="-88.9" size="1.778" layer="97"></text>
 <text x="71.12" y="-68.58" size="1.778" layer="97">This is the ISP programming header</text>
 </plain>
 <instances>
@@ -13380,13 +13374,6 @@ board to help with debugging so we don't have to keep schematic open when debugg
 <wire x1="0" y1="22.86" x2="2.54" y2="22.86" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$23" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="PD2(INT0)"/>
-<pinref part="TP3" gate="G$1" pin="TP"/>
-<wire x1="0" y1="20.32" x2="5.08" y2="20.32" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="N$24" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="PD3(INT1)"/>
@@ -13420,12 +13407,6 @@ board to help with debugging so we don't have to keep schematic open when debugg
 <pinref part="TP9" gate="G$1" pin="TP"/>
 </segment>
 </net>
-<net name="N$29" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="PC2(ADC2)"/>
-<pinref part="TP10" gate="G$1" pin="TP"/>
-</segment>
-</net>
 <net name="N$30" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="PC3(ADC3)"/>
@@ -13435,15 +13416,29 @@ board to help with debugging so we don't have to keep schematic open when debugg
 <net name="INT" class="0">
 <segment>
 <pinref part="J1" gate="G$1" pin="6"/>
-<wire x1="91.44" y1="58.42" x2="76.2" y2="58.42" width="0.1524" layer="91"/>
+<wire x1="91.44" y1="58.42" x2="66.04" y2="58.42" width="0.1524" layer="91"/>
 <label x="76.2" y="58.42" size="1.778" layer="95"/>
+<wire x1="66.04" y1="58.42" x2="66.04" y2="30.48" width="0.1524" layer="91"/>
+<wire x1="66.04" y1="30.48" x2="5.08" y2="30.48" width="0.1524" layer="91"/>
+<pinref part="U1" gate="G$1" pin="PD2(INT0)"/>
+<pinref part="TP3" gate="G$1" pin="TP"/>
+<wire x1="0" y1="20.32" x2="5.08" y2="20.32" width="0.1524" layer="91"/>
+<wire x1="5.08" y1="30.48" x2="5.08" y2="20.32" width="0.1524" layer="91"/>
+<junction x="5.08" y="20.32"/>
 </segment>
 </net>
 <net name="LED_FN" class="0">
 <segment>
 <pinref part="J1" gate="G$1" pin="7"/>
-<wire x1="91.44" y1="55.88" x2="76.2" y2="55.88" width="0.1524" layer="91"/>
 <label x="76.2" y="55.88" size="1.778" layer="95"/>
+<wire x1="91.44" y1="55.88" x2="27.94" y2="55.88" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="55.88" x2="27.94" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="40.64" x2="5.08" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="5.08" y1="40.64" x2="5.08" y2="43.18" width="0.1524" layer="91"/>
+<pinref part="U1" gate="G$1" pin="PC2(ADC2)"/>
+<pinref part="TP10" gate="G$1" pin="TP"/>
+<wire x1="5.08" y1="43.18" x2="0" y2="43.18" width="0.1524" layer="91"/>
+<junction x="0" y="43.18"/>
 </segment>
 </net>
 <net name="N$31" class="0">
@@ -13491,8 +13486,6 @@ board to help with debugging so we don't have to keep schematic open when debugg
 <errors>
 <approved hash="104,1,60.96,-5.08,IC1,VS,VIN,,,"/>
 <approved hash="104,1,60.96,-20.32,IC1,GND,N$31,,,"/>
-<approved hash="106,1,91.44,58.42,INT,,,,,"/>
-<approved hash="106,1,91.44,55.88,LED_FN,,,,,"/>
 <approved hash="113,1,117.077,30.6112,JP1,,,,,"/>
 </errors>
 </schematic>
