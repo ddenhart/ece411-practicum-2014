@@ -130,3 +130,4 @@
    
 ---2014.11.08 dd---
    - made part names readable on the board 
+   - project schedule proposal
