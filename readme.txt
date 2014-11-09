@@ -125,8 +125,17 @@
 
 ---2014.11.6 nslj---
    - completely rerouted board with correct size traces
-   -redid components based on preliminary bill of materials
+   - redid components based on preliminary bill of materials
    - new switch, new capacitors!
+
+---2014.11.06 jerscott---
+   - Provided feedback for project schematic and board layout
+
+---2014.11.07 cc---
+   - Provided feedback for project schematic and board layout
+   - Identified all the parts needed for our board on Digi-Key website and found new parts for the "package not available or not in stock" case
+   - Created BOM with extra fields for manufacturer name, manufacturer part number, Digi-Key part number and direct links to components on Digi-Key website
+   - Ordered all components on the BOM
    
 ---2014.11.08 dd---
    - made part names readable on the board 
