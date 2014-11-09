@@ -116,6 +116,9 @@
    - Added preliminary schematic for turn in
    - Updated wiki with schematic info
  
+---2014.11.02 dd---
+   - Sync'd readme and wpr's
+
 ---2014.11.5 nslj---
    - preliminary board layout uploaded
    - updated wiki with layout info
@@ -125,3 +128,6 @@
    -redid components based on preliminary bill of materials
    - new switch, new capacitors!
    
+---2014.11.08 dd---
+   - made part names readable on the board 
+   - project schedule proposal
