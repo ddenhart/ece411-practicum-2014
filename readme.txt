@@ -1,4 +1,4 @@
-// ECE 411 - readme
+﻿// ECE 411 - readme
 // ddenhart@pdx.edu
 // jerscott@pdx.edu
 // ccarmen@pdx.edu
@@ -143,9 +143,16 @@
    - project schedule proposal
 
 
----2014.11.08 cc—
+---2014.11.08 cc—--
    - Received all board components from Digi-key
    - Printed board layout and put components on top
    - Good match 
    - Finished editing final version of BOM document
 
+---2014.11.08 nslj---
+   - final layout candidate uploaded!
+     --fixed airwire @ (1.30,1.05)
+     --smashed/sized some test points in Schematic
+     --updated dimension layer of board for better spacing of mounting holes
+     --added teamname info to both tPlace and tSilk layers
+     --png screenshots of final layout candidate?
