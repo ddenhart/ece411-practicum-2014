@@ -115,3 +115,44 @@
 ---2014.10.29 nslj---
    - Added preliminary schematic for turn in
    - Updated wiki with schematic info
+ 
+---2014.11.02 dd---
+   - Sync'd readme and wpr's
+
+---2014.11.5 nslj---
+   - preliminary board layout uploaded
+   - updated wiki with layout info
+
+---2014.11.6 nslj---
+   - completely rerouted board with correct size traces
+   - redid components based on preliminary bill of materials
+   - new switch, new capacitors!
+
+---2014.11.06 jerscott---
+   - Provided feedback for project schematic and board layout
+
+
+---2014.11.07 cc---
+   - Provided feedback for project schematic and board layout
+   - Identified all the parts needed for our board on Digi-Key website and found new parts for the "package not available or not in stock" case
+   - Created BOM with extra fields for manufacturer name, manufacturer part number, Digi-Key part number and direct links to components on Digi-Key website
+   - Ordered all components on the BOM
+   
+---2014.11.08 dd---
+   - made part names readable on the board 
+   - project schedule proposal
+
+
+---2014.11.08 cc—--
+   - Received all board components from Digi-key
+   - Printed board layout and put components on top
+   - Good match 
+   - Finished editing final version of BOM document
+
+---2014.11.08 nslj---
+   - final layout candidate uploaded!
+     --fixed airwire @ (1.30,1.05)
+     --smashed/sized some test points in Schematic
+     --updated dimension layer of board for better spacing of mounting holes
+     --added teamname info to both tPlace and tSilk layers
+     --png screenshots of final layout candidate?
