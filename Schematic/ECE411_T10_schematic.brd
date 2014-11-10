@@ -133,17 +133,18 @@
 <wire x1="20.32" y1="62.23" x2="0" y2="41.91" width="0" layer="20"/>
 <wire x1="0" y1="41.91" x2="0" y2="19.05" width="0" layer="20"/>
 <wire x1="66.04" y1="5.08" x2="68.58" y2="-1.27" width="0" layer="20" curve="90"/>
-<text x="5.08" y="7.62" size="1.016" layer="21">ECE411: Color Sensing Infinity Mirror
+<text x="6.35" y="8.89" size="0.8382" layer="21">ECE411: Color Sensing 
+Infinity Mirror
 
 J. Scott, C. Ciobanu, 
 D. Denhart,  N. Lynch-Jonely
 
-                     v1.04: 11/5/2014</text>
-<wire x1="11.43" y1="20.32" x2="13.97" y2="22.86" width="0.3048" layer="112" curve="-180"/>
-<wire x1="13.97" y1="22.86" x2="17.78" y2="19.05" width="0.3048" layer="112" curve="-157.380135"/>
-<wire x1="13.97" y1="22.86" x2="17.78" y2="19.05" width="0.3048" layer="112" curve="202.619865"/>
-<wire x1="13.97" y1="22.86" x2="11.43" y2="20.32" width="0.3048" layer="112" curve="-180"/>
-<text x="11.43" y="19.05" size="1.778" layer="21" rot="R180">T10:</text>
+            v1.04: 11/5/2014</text>
+<wire x1="12.7" y1="20.32" x2="15.24" y2="22.86" width="0.3048" layer="112" curve="-180"/>
+<wire x1="15.24" y1="22.86" x2="19.05" y2="19.05" width="0.3048" layer="112" curve="-157.380135"/>
+<wire x1="15.24" y1="22.86" x2="19.05" y2="19.05" width="0.3048" layer="112" curve="202.619865"/>
+<wire x1="15.24" y1="22.86" x2="12.7" y2="20.32" width="0.3048" layer="112" curve="-180"/>
+<text x="12.7" y="10.16" size="1.778" layer="21" rot="R180">T10:</text>
 <wire x1="68.58" y1="-1.27" x2="77.47" y2="-1.27" width="0" layer="20"/>
 <hole x="72.39" y="60.96" drill="3.2"/>
 <hole x="72.39" y="5.08" drill="3.2"/>
@@ -151,17 +152,11 @@ D. Denhart,  N. Lynch-Jonely
 <hole x="5.08" y="20.32" drill="3.2"/>
 <wire x1="66.04" y1="5.08" x2="17.78" y2="5.08" width="0" layer="20"/>
 <wire x1="17.78" y1="5.08" x2="0" y2="19.05" width="0" layer="20" curve="-90"/>
-<text x="5.08" y="7.62" size="1.016" layer="112">ECE411: Color Sensing Infinity Mirror
-
-J. Scott, C. Ciobanu, 
-D. Denhart,  N. Lynch-Jonely
-
-                     v1.04: 11/5/2014</text>
-<wire x1="11.43" y1="20.32" x2="13.97" y2="22.86" width="0.3048" layer="21" curve="-180"/>
-<wire x1="13.97" y1="22.86" x2="17.78" y2="19.05" width="0.3048" layer="21" curve="-157.380135"/>
-<wire x1="13.97" y1="22.86" x2="17.78" y2="19.05" width="0.3048" layer="21" curve="202.619865"/>
-<wire x1="13.97" y1="22.86" x2="11.43" y2="20.32" width="0.3048" layer="21" curve="-180"/>
-<text x="11.43" y="19.05" size="1.778" layer="112" rot="R180">T10:</text>
+<wire x1="12.7" y1="20.32" x2="15.24" y2="22.86" width="0.3048" layer="21" curve="-180"/>
+<wire x1="15.24" y1="22.86" x2="19.05" y2="19.05" width="0.3048" layer="21" curve="-157.380135"/>
+<wire x1="15.24" y1="22.86" x2="19.05" y2="19.05" width="0.3048" layer="21" curve="202.619865"/>
+<wire x1="15.24" y1="22.86" x2="12.7" y2="20.32" width="0.3048" layer="21" curve="-180"/>
+<text x="12.7" y="10.16" size="1.778" layer="112" rot="R180">T10:</text>
 </plain>
 <libraries>
 <library name="resistor">
