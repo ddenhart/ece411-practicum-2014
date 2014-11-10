@@ -1,4 +1,4 @@
-﻿// ECE 411 - readme
+// ECE 411 - readme
 // ddenhart@pdx.edu
 // jerscott@pdx.edu
 // ccarmen@pdx.edu
@@ -156,3 +156,7 @@
      --updated dimension layer of board for better spacing of mounting holes
      --added teamname info to both tPlace and tSilk layers
      --png screenshots of final layout candidate?
+
+
+---2014.11.09 cc—--
+   - Created Project Schedule document from project schedule documents provided by each team member
