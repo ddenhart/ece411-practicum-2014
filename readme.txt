@@ -163,3 +163,7 @@
    
 ---2014.11.15 dd---
    - Added the color sensor uml activity view
+
+
+---2014.11.15 cc—--
+   - Added LED Output driver protocol sequence diagram
