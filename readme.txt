@@ -1,4 +1,4 @@
-// ECE 411 - readme
+﻿// ECE 411 - readme
 // ddenhart@pdx.edu
 // jerscott@pdx.edu
 // ccarmen@pdx.edu
@@ -167,3 +167,8 @@
 
 ---2014.11.15 cc—--
    - Added LED Output driver protocol sequence diagram
+
+---2014.11.16 nslj---
+   - Added L0 system view block diagram
+   - Added L1 system view block diagram
+   - Added L0 module view for subcomponents in system view
